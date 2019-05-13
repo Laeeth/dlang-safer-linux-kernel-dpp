@@ -1,0 +1,6 @@
+name "virtio_net"
+description "Test to explore using dpp in writing code for linux kernel"
+authors "Laeeth Isharc"
+copyright "Copyright © 2019, Laeeth Isharc"
+license "mit"
+dependency "dpp" version="~>0.1.17"
